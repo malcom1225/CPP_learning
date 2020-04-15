@@ -42,7 +42,6 @@ int binarySearch(int arr[],int N,int x){
         else
             r = m - 1; 
     } 
-
     return -1; 
 }
 void context(){
